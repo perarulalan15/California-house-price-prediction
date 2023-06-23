@@ -3,7 +3,7 @@ import pickle
 import streamlit as st
 
 
-load_model=pickle.load(open('F:/Coding/Project/House price predict/trained_model.sav','rb'))
+load_model=pickle.load(open('trained_model.sav','rb'))
 
 def price_predict(input_data):
     id_asnumpy = np.asarray(input_data)
