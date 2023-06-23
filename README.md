@@ -21,3 +21,10 @@ and many empty houses, such as vacation resorts.
 
 It can be downloaded/loaded using the
 :func:`sklearn.datasets.fetch_california_housing` function
+
+
+# Website
+
+url
+
+https://california-house-price-prediction-ml.streamlit.app/
