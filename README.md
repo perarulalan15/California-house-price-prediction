@@ -26,6 +26,8 @@ It can be downloaded/loaded using the
  
 # California Housing Price Prediction App
 
+* https://california-house-price-prediction-ml.streamlit.app/
+
 # Streamlit
 
 This app is built using Streamlit, a powerful Python library that simplifies the creation of interactive web applications. With this app, you can predict housing prices in various regions of California based on key features and gain valuable insights into the real estate market.
